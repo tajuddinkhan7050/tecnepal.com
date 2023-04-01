@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script Variables
-HOST='172.104.51.65';
+HOST='162.250.121.69';
 USER='digitelp_tecnepal';
 PASS='8mXd@776665rt6';
 DBNAME='digitelp_tecnepal';
